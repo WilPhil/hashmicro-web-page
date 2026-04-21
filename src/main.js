@@ -1,4 +1,3 @@
-import './style.css';
 import 'preline';
 
 // Preline data-hs-collapsed navbar elements
